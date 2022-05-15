@@ -1,0 +1,1 @@
+# NCS-App-for-QR-code-generation
